@@ -15,4 +15,5 @@
 
 <br>
 
-[Tech Blog](https://chchae01.tistory.com/)
+📌 [Tech Blog](https://chchae01.tistory.com/)
+📌 [Introduce](https://pebble-cobbler-699.notion.site/Backend-Developer-997c9d75bef34c11af2918fe3a6a28dd?pvs=4)
